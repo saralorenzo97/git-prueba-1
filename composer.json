@@ -1,0 +1,15 @@
+{
+    "name": "aula002/git",
+    "autoload": {
+        "psr-4": {
+            "Aula002\\Git\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alberto Vazquez",
+            "email": "albertovazquez1999@gmail.com"
+        }
+    ],
+    "require": {}
+}
